@@ -1,0 +1,22 @@
+{
+  "name": "@dwebid/query",
+  "version": "1.0.0",
+  "description": "Library for querying dWebIDs on dWeb's DHT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwebprotocol/dwebid-query.git"
+  },
+  "author": "Jared Rice Sr. <jared@peepsx.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwebprotocol/dwebid-query/issues"
+  },
+  "homepage": "https://dwebx.org",
+  "dependencies": {
+    "@uswarm/core": "^2.1.0"
+  }
+}
